@@ -1,1 +1,2 @@
 Helpdesk launch ready
+meeting :friday 10:00
